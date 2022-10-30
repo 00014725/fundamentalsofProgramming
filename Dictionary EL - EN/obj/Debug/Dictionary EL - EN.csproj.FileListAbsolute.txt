@@ -1,0 +1,11 @@
+D:\Visual Studio 2022\Dictionary EL - EN\Dictionary EL - EN\bin\Debug\Dictionary EL - EN.exe.config
+D:\Visual Studio 2022\Dictionary EL - EN\Dictionary EL - EN\bin\Debug\Dictionary EL - EN.exe
+D:\Visual Studio 2022\Dictionary EL - EN\Dictionary EL - EN\bin\Debug\Dictionary EL - EN.pdb
+D:\Visual Studio 2022\Dictionary EL - EN\Dictionary EL - EN\obj\Debug\Dictionary EL - EN.csproj.AssemblyReference.cache
+D:\Visual Studio 2022\Dictionary EL - EN\Dictionary EL - EN\obj\Debug\Dictionary EL - EN.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio 2022\Dictionary EL - EN\Dictionary EL - EN\obj\Debug\Dictionary_EL___EN.Dictionary.resources
+D:\Visual Studio 2022\Dictionary EL - EN\Dictionary EL - EN\obj\Debug\Dictionary_EL___EN.Properties.Resources.resources
+D:\Visual Studio 2022\Dictionary EL - EN\Dictionary EL - EN\obj\Debug\Dictionary EL - EN.csproj.GenerateResource.cache
+D:\Visual Studio 2022\Dictionary EL - EN\Dictionary EL - EN\obj\Debug\Dictionary EL - EN.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2022\Dictionary EL - EN\Dictionary EL - EN\obj\Debug\Dictionary EL - EN.exe
+D:\Visual Studio 2022\Dictionary EL - EN\Dictionary EL - EN\obj\Debug\Dictionary EL - EN.pdb
